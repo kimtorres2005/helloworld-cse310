@@ -1,19 +1,19 @@
 # Overview
 
-This project is a way for me to practice and improve my programming skills. By working on it, I’m learning more about {insert specific technology or concept here, e.g., organizing data, building user interfaces, etc.} and applying what I know in a practical way.
+This project is a simple "Hello, World!" program written in Python. It serves as an introduction to Python programming, helping me learn the basics of writing and running Python code. By completing this project, I’m getting familiar with basic syntax, how to work with text output, and how Python programs are structured.
 
-The software {briefly describe what it does, e.g., "helps keep track of tasks and lets you set priorities" or "demonstrates basic functions like creating and editing data"}. I created this to {explain the purpose simply, e.g., "build a tool that could be useful for organizing tasks" or "help me learn how to handle data better"}.
+The purpose of this project is to build a strong foundation in Python programming, starting with the most basic example of printing text to the console.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 I used:
-- Tools: {list tools used, e.g., "VS Code, Git, etc."}
-- Language: {programming language, e.g., "Python" or "JavaScript"}
+- Tools: Visual Studio Code, Python interpreter
+- Language: Python v2024.18.1
 
 # Useful Websites
 
-* [Python Docs](https://docs.python.org/)
-* [Stack Overflow](https://stackoverflow.com/)
-* [GeeksforGeeks](https://www.geeksforgeeks.org/)
+* [Python Official Documentation](https://docs.python.org/)
+* [Python Getting Started Guide](https://www.python.org/about/gettingstarted/)
+* [W3Schools Python Tutorial](https://www.w3schools.com/python/)
